@@ -1,7 +1,7 @@
 // ---------------------------------------------------------------
   // CONFIGURAÇÃO: substitua pelos links reais de checkout
   // ---------------------------------------------------------------
-  const CHECKOUT_PACOTE_29 = "https://pay.cakto.com.br/3eotrhf_1041651"; // [LINK CHECKOUT PACOTE R$29,90]
+  const CHECKOUT_PACOTE_29 = "https://pay.cakto.com.br/ku4zb2a"; // [LINK CHECKOUT PACOTE R$29,90]
   const CHECKOUT_AULA_10   = "https://pay.cakto.com.br/bzrqtwa_1041677";   // [LINK CHECKOUT EBOOK R$10,90]
 
   const modal = document.getElementById('upgradeModal');
